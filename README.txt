@@ -1,4 +1,4 @@
-AIML428 Project - Sentiment-Analysis
+AIML428 Project - Text Classicication Project
 William Wallace
 17/04/21
 
