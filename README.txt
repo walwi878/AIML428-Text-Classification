@@ -5,7 +5,7 @@ William Wallace
 This is the my project code for the AIML428 course. 
 This code analyses the sentiment based on two datasets:
 
-1) the stack-overflow.csv dataset consisting of Stack Overflow posts (text
+1) the stack-overflow-data.csv dataset consisting of Stack Overflow posts (text
    input) and the computer language that the post is about (class). This 
    dataset can be downloaded from here: https://archive.org/details/stackexchange
 
