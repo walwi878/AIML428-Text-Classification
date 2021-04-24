@@ -35,5 +35,5 @@ https://colab.research.google.com/drive/1E8gLubbvawscMXcsH6dsVseo1kdj0Rrt#scroll
 The link to step 2 - apply the baseline system on a new dataset - is here:
 https://colab.research.google.com/drive/1nx9zAwvIKjEntLCSvdmkdUiJ4IbcdKFO#scrollTo=vatrEDLkU62n
 
-The link to step 3 - improve the accuracy - is here:
+The link to step 3 - improve the accuracy - is also included here:
 https://colab.research.google.com/drive/1nx9zAwvIKjEntLCSvdmkdUiJ4IbcdKFO#scrollTo=vatrEDLkU62n
